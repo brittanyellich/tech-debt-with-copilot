@@ -34,7 +34,7 @@ Hi there! Thank you for stopping by to get the notes. Below is a list of things 
 ### GitHub Copilot Coding Agent
 
 - [Concepts for GitHub Copilot coding agent](https://docs.github.com/en/copilot/concepts/agents/coding-agent): Learn the basics of GitHub Copilot coding agent and how it can work for you!
-- [Best practices for using GitHub Copilot coding agent[(https://docs.github.com/en/copilot/tutorials/coding-agent/get-the-best-results): Learn how to get the best results from GitHub Copilot coding agent.
+- [Best practices for using GitHub Copilot coding agent](https://docs.github.com/en/copilot/tutorials/coding-agent/get-the-best-results): Learn how to get the best results from GitHub Copilot coding agent.
 - [How the GitHub billing team uses the coding agent in GitHub Copilot to continuously burn down technical debt](https://github.blog/ai-and-ml/github-copilot/how-the-github-billing-team-uses-the-coding-agent-in-github-copilot-to-continuously-burn-down-technical-debt/): A blog post about how my team uses GitHub Copilot coding agent!
 
 ### Writing good prompts
