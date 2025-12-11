@@ -10,7 +10,7 @@ Hi there! Thank you for stopping by to get the notes. Below is a list of things 
   - Use a descriptive title
   - Include examples if you have them!
 
-### 2. Repository instructions
+### 2. Refine your instructions
   - [GitHub Docs](https://docs.github.com/en/copilot/how-tos/configure-custom-instructions/add-repository-instructions): repository custom instructions files that give Copilot additional context on how to understand your project and how to build, test and validate its changes.
 
 ### 3. Atomic tasks
