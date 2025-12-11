@@ -2,6 +2,8 @@
 
 Hi there! Thank you for stopping by to get the notes. Below is a list of things that I highly recommend looking into if you'd like to learn more about using GitHub Copilot coding agent to take care of the tech debt in your backlog 💪
 
+You can check out [the website I used for the demo here](https://commitgraphghan.com)!
+
 ## 🎁 WRAP up your backlog!
 
 ### 1. Write effective instructions
